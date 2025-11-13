@@ -1,4 +1,4 @@
-
+<!DOCTYPE HTML>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -11,31 +11,26 @@
             box-sizing: border-box;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
-
         body {
             background-color: #f5f5f5;
             color: #333;
             line-height: 1.6;
         }
-
         header {
             background-color: #2c3e50;
             color: white;
             padding: 2rem 0;
             text-align: center;
         }
-
         .container {
             max-width: 1100px;
             margin: 0 auto;
             padding: 0 20px;
         }
-
         h1 {
             font-size: 2.5rem;
             margin-bottom: 0.5rem;
         }
-
         h2 {
             font-size: 1.8rem;
             margin: 1.5rem 0 1rem;
@@ -43,12 +38,10 @@
             border-bottom: 2px solid #3498db;
             padding-bottom: 0.5rem;
         }
-
         .subtitle {
             font-size: 1.2rem;
             color: #7f8c8d;
         }
-
         section {
             padding: 2rem 0;
             background-color: white;
@@ -56,11 +49,9 @@
             border-radius: 5px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
-
         .about, .projects {
             padding: 2rem;
         }
-
         .profile-img {
             width: 150px;
             height: 150px;
@@ -70,12 +61,10 @@
             display: block;
             border: 5px solid #3498db;
         }
-
         p {
             margin-bottom: 1rem;
             font-size: 1.1rem;
         }
-
         .project {
             margin-bottom: 2rem;
             padding: 1.5rem;
@@ -83,12 +72,10 @@
             border-left: 4px solid #3498db;
             border-radius: 0 5px 5px 0;
         }
-
         .project h3 {
             color: #2c3e50;
             margin-bottom: 0.5rem;
         }
-
         footer {
             background-color: #2c3e50;
             color: white;
@@ -96,25 +83,20 @@
             padding: 1.5rem 0;
             margin-top: 2rem;
         }
-
         .highlight {
             color: #3498db;
             font-weight: bold;
         }
-
         @media (max-width: 768px) {
             h1 {
                 font-size: 2rem;
             }
-            
             h2 {
                 font-size: 1.5rem;
-            }
-            
+            } 
             .container {
                 padding: 0 15px;
             }
-            
             section {
                 padding: 1.5rem 0;
             }
@@ -128,8 +110,7 @@
             <p class="subtitle">Pelajar PPLG/RPL & Calon Software Engineer</p>
         </div>
     </header>
-
-    <div class="container">
+<div class="container">
         <section class="about">
             <img src="C:\Users\Lenovo\OneDrive\Desktop\WhatsApp Image 2025-11-13 at 09.15.29_b10603cc.jpg" alt="Foto David Lusyan Thenu" class="profile-img">
             <h2>Tentang Saya</h2>
@@ -137,23 +118,19 @@
             <p>Minat saya adalah mempersiapkan masa depan di bidang <span class="highlight">web development</span>. Fokus utama saya adalah pada tujuan untuk menjadi <span class="highlight">Software Engineer di Google</span>.</p>
             <p>Saya percaya bahwa dengan konsistensi dan pembelajaran terus-menerus, saya dapat mencapai tujuan karir saya di dunia teknologi.</p>
         </section>
-
         <section class="projects">
             <h2>Proyek Saya</h2>
-            
             <div class="project">
                 <h3>EdulearnHistory</h3>
                 <p>Website pertama saya yang dikembangkan dengan kolaborasi AI. EdulearnHistory adalah platform pembelajaran sejarah yang dirancang untuk membuat pembelajaran sejarah lebih menarik dan interaktif.</p>
             </div>
-            
-            <div class="project">
+             <div class="project">
                 <h3>EdulearnCode</h3>
                 <p>Website yang sedang saya persiapkan dan akan menjadi proyek paling kompleks yang pernah saya kerjakan dalam dunia pemrograman. EdulearnCode bertujuan untuk menjadi platform pembelajaran coding yang komprehensif untuk berbagai tingkat kemampuan.</p>
             </div>
         </section>
     </div>
-
-    <footer>
+ <footer>
         <div class="container">
             <p>&copy; 2025 David Lusyan Thenu - Mungkin ini saja yang bisa saya buktikan dengan belajar otodidak mwehehe -_-</p>
             <p>Terima kasih telah mengunjungi portofolio saya!</p>
