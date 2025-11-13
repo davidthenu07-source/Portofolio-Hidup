@@ -52,15 +52,6 @@
         .about, .projects {
             padding: 2rem;
         }
-        .profile-img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            object-fit: cover;
-            margin: 1rem auto;
-            display: block;
-            border: 5px solid #3498db;
-        }
         p {
             margin-bottom: 1rem;
             font-size: 1.1rem;
