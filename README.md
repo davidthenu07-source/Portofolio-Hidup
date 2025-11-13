@@ -103,7 +103,6 @@
     </header>
 <div class="container">
         <section class="about">
-            <img src="C:\Users\Lenovo\OneDrive\Desktop\WhatsApp Image 2025-11-13 at 09.15.29_b10603cc.jpg" class="profile-img">
             <h2>Tentang Saya</h2>
             <p>Saya adalah <span class="highlight">David Lusyan Thenu</span>, saat ini saya masih duduk di kelas 10 di SMKN 7 Baleendah, dengan jurusan <span class="highlight">PPLG/RPL</span> (Pengembangan Perangkat Lunak dan Gim / Rekayasa Perangkat Lunak).</p>
             <p>Minat saya adalah mempersiapkan masa depan di bidang <span class="highlight">web development</span>. Fokus utama saya adalah pada tujuan untuk menjadi <span class="highlight">Software Engineer di Google</span>.</p>
